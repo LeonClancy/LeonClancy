@@ -1,4 +1,16 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">A passionate full-stack developer from Taiwan!</h3>
+<h3 align="center">A passionate full-stack developer(artisan) from Taiwan!</h3>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
+<h2>Skills</h2>
+
+<h3>Back-end</h3>
+
+ - Often uses <img width="50" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">  with  my most favorite <img width="30" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"> or <img width="30" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg">
+ - Also like <img width="30" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">  with  <img width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+
+<h3>
+    Front-end
+</h3>
+
+ - Often uses <img width="30" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"> with <img width="75" src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg">
+ - In side project, <img width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"> always my first choice.
