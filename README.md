@@ -11,7 +11,7 @@
 
  <h3>Front-end</h3>
 
- - Often uses <img width="30" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"> with <img width="75" src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg">
+ - Often uses <img width="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> with <img width="75" src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg">
  - In side project, <img width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"> always my first choice.
 
 <h3>Secket Server app</h3>
